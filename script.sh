@@ -1,2 +1,3 @@
-choan
+#!/bin/bash/
+echo "choan"
 
