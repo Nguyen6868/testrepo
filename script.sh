@@ -1,4 +1,3 @@
 #!/bin/bash/
 echo "choan"
-echo "linhtinh"
-
+echo "agae"
